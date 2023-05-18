@@ -1,4 +1,5 @@
-# BestSubset_RandomForest
+# A workflow for lithology classification from well logs with feature selection and random forest classification
+
 A workflow for lithology classification from well logs. 
 
 The proposed approach consists of two steps: a feature selection step and a machine learning classification step. 
